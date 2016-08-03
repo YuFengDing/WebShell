@@ -1,0 +1,2 @@
+cp: 缺少了文件操作数
+Try 'cp --help' for more information.
