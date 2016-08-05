@@ -65,7 +65,7 @@ def cp(line,path):
 
     
 
-cmd = {"ifconfig":ifconfig,"ls":ls,"rm":rm,"cp":cp,"date",date}
+cmd = {"ifconfig":ifconfig,"ls":ls,"rm":rm,"cp":cp,"date":date}
 
 def is_whitespace(character):
     for i in range(0,len(string.whitespace)):
