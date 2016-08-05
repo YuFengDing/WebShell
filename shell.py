@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-    jQuery Example
-    ~~~~~~~~~~~~~~
 
-    A simple application that shows how Flask and jQuery get along.
-
-    :copyright: (c) 2015 by Armin Ronacher.
-    :license: BSD, see LICENSE for more details.
-"""
 
 from flask import Flask, jsonify, render_template, request
 import getpass,socket,os,string,command
